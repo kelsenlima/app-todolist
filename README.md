@@ -1,7 +1,7 @@
 # APP TO DO LIST
 <h1 align="center">
   <br>
-  <img src="./demo/todolist.jpg" alt="Kelsen Lima" height="320" width="320">
+  <img src="./demo/todolist.jpg" alt="Kelsen Lima" height="320" width="120">
 </h1>
 
 ## :blush: **Descrição**
@@ -20,7 +20,7 @@ Certifique-se de possuir as bibliotecas abaixo, caso contrário execute a instal
 ## :zap: **Tecnologia**
 
 <img align="left" alt="React Native" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
-<img align="left" alt="javascript" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <br>
 <br>
