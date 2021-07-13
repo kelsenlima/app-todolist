@@ -1,7 +1,7 @@
 # APP TO DO LIST
 <h1 align="center">
   <br>
-  <img src="./demo/todolist.jpg" alt="Kelsen Lima" height="320" width="190">
+  <img src="./demo/todolist.jpg" alt="Kelsen Lima" height="500" width="270">
 </h1>
 
 ## :blush: **Descrição**
